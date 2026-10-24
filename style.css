@@ -17,4 +17,4 @@ nav{display:flex;justify-content:space-between;align-items:center;padding-top:20
 .doc h1{font-family:Georgia,serif}.doc h2{margin-top:32px;font-size:20px}.doc{padding-bottom:40px}
 a{color:var(--fern)}
 footer{border-top:1px solid var(--line);padding:24px 20px 40px;color:var(--muted);font-size:14px;text-align:center}
-footer a{color:inherit;margin:0 4px}.studio img{height:40px;width:auto;margin-top:8px}
+footer a{color:inherit;margin:0 4px}.studio img{width:180px;height:auto;margin-top:10px}
