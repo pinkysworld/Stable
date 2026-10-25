@@ -18,3 +18,7 @@ nav{display:flex;justify-content:space-between;align-items:center;padding-top:20
 a{color:var(--fern)}
 footer{border-top:1px solid var(--line);padding:24px 20px 40px;color:var(--muted);font-size:14px;text-align:center}
 footer a{color:inherit;margin:0 4px}.studio img{width:180px;height:auto;margin-top:10px}
+.section h2{font-family:Georgia,serif;font-size:28px;margin:40px 0 8px}.section>p{color:var(--muted);margin:0 0 8px}
+.price{font-size:26px;font-weight:700;margin:4px 0 2px;color:var(--ink)}.card ul{margin:8px 0 0;padding-left:18px;color:var(--muted)}
+.badge{display:inline-block;border:1px solid var(--line);background:var(--card);border-radius:999px;padding:8px 18px;font-weight:600;color:var(--forest)}
+.doc h3{font-size:17px;margin:20px 0 4px}
